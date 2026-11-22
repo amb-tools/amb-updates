@@ -2,9 +2,9 @@
   "editions": {
     "pro": {
       "version": "1.0.0",
-      "sha256": "aa7ec070d187c4f1db076e2269a5cc80c00d073b86cb3b2cea134c758ebbc08a",
+      "sha256": "5a97ddb5076432ae6939f2285e859acd5f7c6658ea6289afa2d61a27ae553e20",
       "notes": "- First release",
-      "released_at": "2026-11-20",
+      "released_at": "2026-11-22",
       "download": "license"
     }
   },
