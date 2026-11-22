@@ -2,10 +2,11 @@
   "editions": {
     "pro": {
       "version": "1.0.0",
-      "sha256": "2c71ac21b6105827673473687abab77cbfb8129bb256a4f36924a1f18612885a",
+      "sha256": "6df8ff034e546721e479846dd8597b438848f41b292183b7848c306e0dcfb810",
       "notes": "- First release",
       "released_at": "2026-11-22",
-      "download": "license"
+      "download": "store",
+      "store_url": "https://app.gumroad.com/library"
     }
   },
   "messages": []
