@@ -1,0 +1,12 @@
+{
+  "editions": {
+    "pro": {
+      "version": "1.0.0",
+      "sha256": "aa7ec070d187c4f1db076e2269a5cc80c00d073b86cb3b2cea134c758ebbc08a",
+      "notes": "- First release",
+      "released_at": "2026-11-20",
+      "download": "license"
+    }
+  },
+  "messages": []
+}
